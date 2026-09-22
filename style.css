@@ -124,6 +124,10 @@ li{
     border: 4px solid #d4ecdc;
 }
 
+.galeria img:last-child{
+    object-position: center top;
+}
+
 .contato{
     margin: 35px 0;
 }
